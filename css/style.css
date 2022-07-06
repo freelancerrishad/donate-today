@@ -1,0 +1,218 @@
+body {
+  font-family: "Finlandica", sans-serif;
+}
+header h1 {
+  font-size: 92px;
+}
+header {
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: -10px;
+  height: 700px;
+  padding-top: 200px;
+  padding-bottom: 45px;
+  width: 100%;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  margin-right: -8px;
+}
+.header_div {
+  margin-left: 25%;
+  width: 50%;
+}
+.header_div a {
+  text-decoration: none;
+  background-image: linear-gradient(red, tomato);
+  color: white;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+.header_div p {
+  width: 98%;
+  margin-left: 20px;
+}
+
+#donate-today {
+  text-align: center;
+  margin-top: 180px;
+  font-size: 30px;
+}
+
+#donate-today h1 {
+  font-size: 70px;
+}
+
+.donate-today-first-half {
+  width: 50%;
+  margin-left: 460px;
+}
+
+.donate-today-second-half {
+  display: flex;
+  padding: 20px;
+  margin-left: 15%;
+}
+
+.donate-today-second-half h2 {
+  margin-left: 110px;
+}
+
+.border-background {
+  background-color: rgb(235, 202, 202);
+  border: 3px solid red;
+  padding: 40px;
+  border-radius: 10px;
+  color: red;
+}
+
+.amount-input input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  border-color: rgb(177, 177, 177);
+  width: 1300px;
+  font-size: 20px;
+  text-align: center;
+  outline: none;
+}
+
+.amount-input a {
+  text-decoration: none;
+  background-image: linear-gradient(red, tomato);
+  color: white;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
+#our-donate-plan h1 {
+  font-size: 70px;
+}
+.our-donate-plan-main-div {
+  display: flex;
+}
+
+.our-donate-plan-header {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 150px;
+  text-align: center;
+  font-size: 30px;
+}
+.common-div {
+  height: 400px;
+  width: 800px;
+  margin: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+.food-for-family {
+  background-color: aliceblue;
+  padding: 100px;
+}
+
+.shelter-for-family {
+  background-color: lemonchiffon;
+  padding: 100px;
+}
+
+.education-for-child {
+  background-color: antiquewhite;
+  padding: 100px;
+}
+
+#welcome {
+  display: flex;
+  width: 90%;
+  margin-left: 5%;
+}
+.welcome-left {
+  padding: 5%;
+}
+.welcome-image {
+  display: flex;
+  padding: 50px;
+}
+.welcome-image img {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+}
+
+.welcome-button {
+  text-decoration: none;
+  background-image: linear-gradient(red, tomato);
+  padding: 20px;
+  color: white;
+  margin-right: 20px;
+  border-radius: 20px;
+}
+
+#get-my-updates {
+  text-align: center;
+  font-size: 25px;
+}
+#get-my-updates h1 {
+  font-size: 50px;
+}
+.get-my-updates-paragraph {
+  width: 45%;
+  margin-left: 28%;
+}
+.get-my-updates-email {
+  width: 45%;
+  margin-left: 22%;
+  background-color: antiquewhite;
+  height: 200px;
+  width: 1100px;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.get-my-updates-email input {
+  outline: none;
+  border-style: none;
+  border-radius: 10px;
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  margin-top: 80px;
+  background-color: rgb(184, 191, 197);
+  padding-left: 30px;
+}
+.get-my-updates-email button {
+  margin-left: -18px;
+  border-style: none;
+  height: 53px;
+  background-image: linear-gradient(red, tomato);
+  color: white;
+  padding: 22px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+footer {
+ 
+  background-color: black;
+  text-align: center;
+  height: 225px;
+  padding: 60px;
+  margin: -8px;
+}
+
+footer h1 {
+    font-family: "Finlandica", sans-serif;
+    font-family: "Great Vibes", cursive;
+  font-size: 50px;
+  color: tomato;
+}
+
+footer p{
+    color: white;
+    font-size: 20px;
+}
